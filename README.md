@@ -117,4 +117,36 @@ When prototypes are available, we will publish clear guidelines on how to run no
    - Transparent anchor rate system  
 
 4. **v2.0 – Growth and Governance**
-   - Offici
+   - Official N1C Foundation established  
+   - Global anchor network expansion  
+   - Community governance processes  
+
+---
+
+## 💡 Philosophy
+
+N1C is built on three guiding principles:  
+
+1. **Accessibility** – Everyone deserves free, simple digital money.  
+2. **Transparency** – Anchors and exchanges must operate openly.  
+3. **Sustainability** – A hybrid model ensures resilience without complexity.  
+
+---
+
+## 📌 Inspiration
+
+N1C draws inspiration from:  
+- **Monero** (privacy-first currency)  
+- **Zcash** (advanced cryptographic protection)  
+- **Stellar** (anchor model for exchanges)  
+- **Local community banking systems** (simplicity and inclusivity)  
+
+But it is designed with a **lighter, more practical focus**:  
+- No mining.  
+- No blockchain weight.  
+- No high costs for users.  
+
+---
+
+*Copyright © 2025 N1C Foundation*  
+*Released under the GNU General Public License v3.0*  
