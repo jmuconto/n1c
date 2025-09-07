@@ -11,6 +11,7 @@ The N1C ledger enforces a set of rules to ensure **secure, consistent, and verif
 - Formula:
 ```text
 balance(sender) >= amount + fee
+
 ### 1.2 Positive Amounts
 
 *   Transaction amount must always be **greater than 0**.
